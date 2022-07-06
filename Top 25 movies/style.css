@@ -1,0 +1,30 @@
+body{
+    background-color: azure
+}
+
+table{
+    border: 2px solid;
+}
+th{ 
+   border: 1px solid;
+    border-collapse: collapse;
+    
+    
+}
+
+td{
+    border: 1px solid;
+    
+    
+        
+}
+
+tr:nth-child(even){
+    background-color: antiquewhite;
+}
+
+
+h2{
+    font-family: Helvetica, sans-serif;
+    
+}
